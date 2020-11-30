@@ -1,0 +1,89 @@
+{
+    "users":
+    [
+      {
+        "id": 1,
+        "nama": "Sahadroid",
+        "alamat": "Jl.Pendidikan No.3",
+        "umur": 23,
+        "nohp": "08123232434"
+      },
+      {
+        "id": 2,
+        "nama": "Rina",
+        "alamat": "Jl.Cut Nyak Dien No.4",
+        "umur": 24,
+        "nohp": "081909232"
+      },
+      {
+        "id": 3,
+        "nama": "Kiki",
+        "alamat": "Jl.Diponegoro No.23",
+        "umur": 30,
+        "nohp": "0852989232"
+      },
+      {
+        "id": 4,
+        "nama": "Rohim",
+        "alamat": "Jl.Suprapto No.23",
+        "umur": 35,
+        "nohp": "083190923232"
+      },
+      {
+        "id": 5,
+        "nama": "Dimas",
+        "alamat": "Jl.Kartini",
+        "umur": 31,
+        "nohp": "082398340912"
+      },
+      {
+        "id": 6,
+        "nama": "Siti",
+        "alamat": "Jl.Pancabudi No.23",
+        "umur": 19,
+        "nohp": "087781212"
+      },
+      {
+        "id": 7,
+        "nama": "Hendra",
+        "alamat": "Jl.D.I Panjaitan",
+        "umur": 34,
+        "nohp": "081370273471"
+      },
+      {
+        "id": 8,
+        "nama": "Riko",
+        "alamat": "Jl.Cempaka No.323",
+        "umur": 25,
+        "nohp": "085387620912"
+      },
+      {
+        "id": 9,
+        "nama": "Erwin",
+        "alamat": "Jl.Rajawali No.2",
+        "umur": 29,
+        "nohp": "098238230912"
+      },
+      {
+        "id": 10,
+        "nama": "Endang",
+        "alamat": "Jl.Pasuruan No.34",
+        "umur": 27,
+        "nohp": "085198120953"
+      },
+      {
+        "id": 11,
+        "nama": "Rahma",
+        "alamat": "Jl.Gelas No.23",
+        "umur": 21,
+        "nohp": "081298238712"
+      },
+      {
+        "id": 12,
+        "nama": "Zulham",
+        "alamat": "Jl.Pintu Air No.63",
+        "umur": 26,
+        "nohp": "08158238712"
+      }
+    ]
+}
